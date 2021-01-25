@@ -7,7 +7,8 @@ const FooterWrapper = styled.footer`
   display: flex;
   align-items: center;
   border-radius: 4px;
-  opacity: .6;
+  opacity: .8;
+  border: 1px solid ${({ theme }) => theme.colors.primary};
   img {
     width: 58px;
     margin-right: 23px;

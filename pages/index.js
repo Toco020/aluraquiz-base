@@ -22,7 +22,7 @@ export default function Home() {
       <QuizContainer>
         <Widget>
           <Widget.Header>
-            <h1>Sonic de Ouro</h1>
+            <h1>Sonicpotente</h1>
           </Widget.Header>
           <Widget.Content>
             <p>Tá funcionando maluco :D</p>
@@ -33,7 +33,7 @@ export default function Home() {
           <Widget.Content>
           <h1>Quiz da Galera</h1>
 
-          <p>Quiz da Galera</p>
+          <p>Tá funcionando Galera</p>
           </Widget.Content>
         </Widget>
         <Footer />
