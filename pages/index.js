@@ -18,7 +18,6 @@ export const QuizContainer = styled.div`
 
 export default function Home() {
   return (
-    <meta name="google-site-verification" content="km-HzID7cs6yU5duuKXwDB6jWxvdkJms5M6Gn6LPats" />
     <QuizBackground backgroundImage={db.bg}>
       <QuizContainer>
         <Widget>
